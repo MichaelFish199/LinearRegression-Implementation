@@ -1,6 +1,5 @@
 # LinearRegression-Implementation
 
-This repository contains implementation of linear regression using gradient descent and linear algebra formula
-
+This repository contains many implementation of linear regression mostly using gradient descent and linear algebra formula.
 
 ![](/LinReg_screen.png)
